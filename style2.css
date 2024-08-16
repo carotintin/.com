@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+html {
+    font-size: 100%;
+}
+body{
+    font-family: serif;
+    color: white;
+
+    background-size: cover;
+    background-position: center bottom;
+    background-image: url(backgblack.png);
+    height: 1000px;
+    background-color: black;
+}
+a {
+    font-size:200%
+}
+div{
+    text-align: center;
+}
+.logo {
+    max-width: 12%;
+}
+.sasaki{
+    max-width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.aligin-center{
+    text-align: center;
+}
+.name{
+    border-bottom: 10%;
+    border-color: white;
+}
+h3{
+    font-size: 130%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.odoroki{
+    max-width: 60%;
+}
+.logo2{
+    max-width: 35%;
+    margin-bottom: 14%;
+    margin-right: 5%;
+}
